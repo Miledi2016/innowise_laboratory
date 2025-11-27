@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="807e5592-4097-45cf-8d91-a7df52544586" name="Changes" comment="Student" />
+    <list default="true" id="523c6b0e-582b-41a2-a273-3a3126ae2862" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +28,10 @@
     "accountId": "85b51d95-4c00-4d21-a76a-ffc6881e235a"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
-  <component name="ProjectId" id="363ftWrHQm6lcemE7EauwUTAaGd" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35LfzyrXaRvBntTnaFrwZTX8Cm5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,10 +39,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "feature/virtual-environment",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,25 +54,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="807e5592-4097-45cf-8d91-a7df52544586" name="Changes" comment="" />
-      <created>1764240391296</created>
+      <changelist id="523c6b0e-582b-41a2-a273-3a3126ae2862" name="Changes" comment="" />
+      <created>1762894539985</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1764240391296</updated>
+      <updated>1762894539985</updated>
     </task>
-    <task id="LOCAL-00001" summary="Student">
-      <option name="closed" value="true" />
-      <created>1764251369596</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1764251369596</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
   </component>
 </project>
