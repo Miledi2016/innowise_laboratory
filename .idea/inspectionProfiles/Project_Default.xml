@@ -1,6 +1,10 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6dfcefd592658d377319d9f53d71b883b39f4640
     <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
@@ -17,6 +21,11 @@
       </option>
       <option name="myCustomValuesEnabled" value="true" />
     </inspection_tool>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 1b63533a3a3a003f2e4dd429b5b83dbfa47427cf
+>>>>>>> 6dfcefd592658d377319d9f53d71b883b39f4640
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredIdentifiers">
         <list>
